@@ -1,8 +1,8 @@
 
-# Hola, soy Eduardo! 👋
+# Hola, soy Eduardo! 
 
 
-## 🚀 Sobre mí
+## Sobre mí
 Soy un desarrollador de aplicaciones web centrado en el Frontend.
 
 Tengo la iniciativa de seguir mejorando en los lenguajes que utilizo y también en aprender nuevas tecnologías.
@@ -10,7 +10,7 @@ Tengo la iniciativa de seguir mejorando en los lenguajes que utilizo y también 
 
 
 
-## 🛠 Habilidades
+## Habilidades
 Angular, Javascript, HTML, CSS...
 
 Node.js, PHP, Python, Java...
