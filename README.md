@@ -1,28 +1,45 @@
+<h1 align="center">Hola 👋, soy Eduardo Alcaide Rodríguez</h1>
+<h3 align="center">Full-Stack Developer | Especializándome en IA y Big Data</h3>
 
-# Hola, soy Eduardo! 
+<p align="center">
+  <!-- Reemplaza los enlaces (href) con los tuyos -->
+  <a href="TU_LINK_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
 
+---
 
-## Sobre mí
-Soy un desarrollador de aplicaciones web centrado en el Frontend.
+### 💻 Tech Stack
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- Aquí están configuradas tus tecnologías principales -->
+    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,python,java,cs,postgres,mysql,mongodb,aws,docker,nginx&perline=8" />
+  </a>
+</div>
 
-Tengo la iniciativa de seguir mejorando en los lenguajes que utilizo y también en aprender nuevas tecnologías.
+---
 
+### 📊 GitHub Analytics
+<div align="center">
+  <!-- Cambia TU_USUARIO_DE_GITHUB -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
+---
 
+### 📈 Contribution Graph
+<div align="center">
+  <!-- Cambia TU_USUARIO_DE_GITHUB -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_DE_GITHUB&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
-## Habilidades
-Angular, Javascript, HTML, CSS...
+---
 
-Node.js, PHP, Python, Java...
-
-## Más información
-
-Actualmente estoy estudiando Ingeniería Informática en la Universidad de Sevilla y un grado superior de Desarrollo de Aplicaciones Web.
-
-
-## Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edualcrd&theme=rust-ferris-light&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
-## Lenguajes usados
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edualcrd&layout=donut)](https://github.com/edualcrd)
+### 💬 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
