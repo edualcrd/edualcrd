@@ -16,7 +16,7 @@
 
   <!-- Tech Stack Minimalista -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,python,java,cs,postgres,mysql,mongodb,aws,docker,nginx&perline=8&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,python,java,postgres,mysql,mongodb,aws,docker,nginx&perline=8&theme=dark" alt="Tech Stack" />
   </a>
 
   <br><br><br>
