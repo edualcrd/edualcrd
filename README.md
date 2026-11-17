@@ -17,8 +17,8 @@
 ### 💻 Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Iconos configurados con tu stack actual -->
-    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,python,java,postgres,mysql,mongodb,aws,docker,nginx&perline=8" alt="Tech Stack" />
+    <img
+      src="https://skillicons.dev/iconsi=js,ts,react,angular,nodejs,express,python,java,cs,postgres,mysql,mongodb,aws,docker,nginx&perline=8"        alt="Tech Stack" />
   </a>
 </div>
 
@@ -26,21 +26,19 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <!-- Cambia TU_USUARIO_DE_GITHUB -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edualcrd&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edualcrd&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 📈 Contribution Graph
 <div align="center">
-  <!-- Cambia TU_USUARIO_DE_GITHUB -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edualcrd&theme=transparent&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edualcrd&theme=github_dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
 ### 💬 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Quote" />
 </div>
