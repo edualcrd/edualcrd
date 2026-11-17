@@ -1,43 +1,32 @@
-<h1 align="center">Hi 👋, I'm Eduardo Alcaide Rodríguez</h1>
-<h3 align="center">Junior Full-Stack Developer | Specializing in AI & Big Data</h3>
-<p align="center"><b>🌍 Native Spanish | 🗣️ B2 English</b></p>
-
-<p align="center">
-  <!-- Reemplaza los enlaces (href) con los tuyos -->
-  <a href="https://www.linkedin.com/in/eduardo-alcaide-rodr%C3%ADguez-677838401/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:eduardoalcaiderodriguez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
-
----
-
-### 💻 Tech Stack
 <div align="center">
+  <h1>Eduardo Alcaide Rodríguez</h1>
+  <p><b>Junior Full-Stack Developer | AI & Big Data</b></p>
+  <p>Native Spanish | B2 English</p>
+  
+  <p>
+    <a href="www.linkedin.com/in/eduardo-alcaide-rodríguez" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&color=0077B5" alt="LinkedIn" />
+    </a>
+    <a href="mailto:eduardoalcaiderodriguez@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&color=D14836" alt="Gmail" />
+    </a>
+  </p>
+
+  <br>
+
+  <!-- Tech Stack Minimalista -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,python,java,cs,postgres,mysql,mongodb,aws,docker,nginx&perline=8&theme=light" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,python,java,cs,postgres,mysql,mongodb,aws,docker,nginx&perline=8&theme=dark" alt="Tech Stack" />
   </a>
-</div>
 
----
+  <br><br><br>
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edualcrd&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-</div>
+  <!-- Estadísticas sin fondo con acento azul GitHub -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edualcrd&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" alt="GitHub Streak" width="450" />
 
----
+  <br><br>
 
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edualcrd&theme=github_dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-### 💬 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Quote" />
+  <!-- Gráfico forzado a transparente y azul (soluciona el fondo rosa) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edualcrd&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true" alt="Activity Graph" width="700" />
+  
 </div>
