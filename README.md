@@ -27,7 +27,7 @@
 ### 📊 GitHub Analytics
 <div align="center">
   <!-- Cambia TU_USUARIO_DE_GITHUB -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edualcrd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edualcrd&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -35,12 +35,12 @@
 ### 📈 Contribution Graph
 <div align="center">
   <!-- Cambia TU_USUARIO_DE_GITHUB -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edualcrd&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edualcrd&theme=transparent&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
 ### 💬 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote" />
 </div>
