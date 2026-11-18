@@ -41,19 +41,20 @@ Currently expanding my knowledge in Python, data pipelines, database systems and
   <h3>Programming & Development</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,nodejs,express,react,angular&perline=8&theme=dark" alt="Programming Technologies" />
+      <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,angular,nodejs,express&perline=8&theme=dark" />
+
   </a>
 
   <h3>Data Engineering & Databases</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,neo4j&perline=8&theme=dark" />
   </a>
 
   <h3>Infrastructure & Tools</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,vscode&perline=8&theme=dark" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github&perline=8&theme=dark" />
   </a>
 
   <br><br>
@@ -87,12 +88,14 @@ Web application focused on skateboarding, allowing users to manage tricks, profi
 
   <br>
 
-  <h2>Currently Learning</h2>
+  <h2>Currently Exploring</h2>
 
-  <img src="https://img.shields.io/badge/Data_Engineering-ETL_Pipelines-58a6ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-LLMs-58a6ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine_Learning-Python-58a6ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps-Docker_&_CI%2FCD-58a6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-Learning-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-Learning-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-Learning-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Learning-58a6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-Learning-58a6ff?style=flat-square" />
 
   <br><br><br>
 
