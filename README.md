@@ -107,6 +107,12 @@ Web application focused on skateboarding, allowing users to manage tricks, profi
 
   <br><br>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edualcrd/edualcrd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edualcrd/edualcrd/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/edualcrd/edualcrd/output/github-snake.svg" />
+  </picture>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer&text=Always%20learning.%20Always%20building.&fontSize=15&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="Footer Banner" />
 
 </div>
