@@ -1,22 +1,21 @@
-
 <div align="center">
 
-  <h1>Eduardo Alcaide Rodríguez</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=175&section=header&text=Eduardo%20Alcaide%20Rodr%C3%ADguez&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20data-driven%20applications%20and%20AI-powered%20solutions&descAlignY=62&descSize=15" width="100%" alt="Header Banner" />
 
-  <h3>Junior AI & Data Engineer | Python · Data Engineering · Applied AI</h3>
+  <a href="https://github.com/edualcrd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Junior+AI+%26+Data+Engineer;Python+%C2%B7+Data+Engineering+%C2%B7+Applied+AI;Data+Pipelines+%C2%B7+Databases+%C2%B7+LLMs" alt="Typing SVG" />
+  </a>
 
   <p>
-    Building data-driven applications and AI-powered solutions.
-    <br>
     Native Spanish 🇪🇸 | B2 English 🇬🇧
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/eduardo-alcaide-rodriguez/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&color=0077B5" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:eduardoalcaiderodriguez@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&color=D14836" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -41,20 +40,19 @@ Currently expanding my knowledge in Python, data pipelines, database systems and
   <h3>Programming & Development</h3>
 
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,angular,nodejs,express&perline=8&theme=dark" />
-
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,angular,nodejs,express&perline=8&theme=dark" alt="Programming and Development stack" />
   </a>
 
   <h3>Data Engineering & Databases</h3>
 
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,neo4j&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,neo4j&perline=8&theme=dark" alt="Data Engineering and Databases stack" />
   </a>
 
   <h3>Infrastructure & Tools</h3>
 
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github&perline=8&theme=dark" alt="Infrastructure and Tools stack" />
   </a>
 
   <br><br>
@@ -90,12 +88,12 @@ Web application focused on skateboarding, allowing users to manage tricks, profi
 
   <h2>Currently Exploring</h2>
 
-  <img src="https://img.shields.io/badge/Apache_Kafka-Learning-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-Learning-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-Learning-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Learning-58a6ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embeddings-Learning-58a6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-Learning-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Qdrant-Learning-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-Learning-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-Learning-58a6ff?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Embeddings-Learning-58a6ff?style=flat-square" alt="Embeddings" />
 
   <br><br><br>
 
@@ -109,6 +107,6 @@ Web application focused on skateboarding, allowing users to manage tricks, profi
 
   <br><br>
 
-  <p><i>Always learning. Always building.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer&text=Always%20learning.%20Always%20building.&fontSize=15&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="Footer Banner" />
 
 </div>
