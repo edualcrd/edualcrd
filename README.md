@@ -7,7 +7,7 @@
   </a>
 
   <p>
-    Native Spanish 🇪🇸 | B2 English 🇬🇧
+    Based in Spain 🇪🇸 · EN / ES
   </p>
 
   <p>
@@ -23,36 +23,29 @@
 
   <h2>About Me</h2>
 
-</div>
-
-I'm a junior developer focused on **Artificial Intelligence and Data Engineering**, interested in building practical solutions that combine data processing, databases, APIs and AI technologies.
-
-I enjoy transforming raw data into useful insights and developing applications that solve real-world problems.
-
-Currently expanding my knowledge in Python, data pipelines, database systems and AI-powered applications.
-
-<div align="center">
+  <p>
+    Full-stack developer currently specializing in <b>Artificial Intelligence & Big Data</b>.
+    <br>
+    I combine backend and web engineering fundamentals with data pipelines, database systems, and LLM integrations to build practical, end-to-end applications.
+  </p>
 
   <br>
 
   <h2>Tech Stack</h2>
 
-  <h3>Programming & Development</h3>
-
+  <h3>Data Engineering, AI & Databases</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,angular,nodejs,express&perline=8&theme=dark" alt="Programming and Development stack" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,neo4j&perline=8&theme=dark" alt="Data Engineering, AI and Databases" />
   </a>
 
-  <h3>Data Engineering & Databases</h3>
-
+  <h3>Infrastructure & Cloud</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,neo4j&perline=8&theme=dark" alt="Data Engineering and Databases stack" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github&perline=8&theme=dark" alt="Infrastructure and Cloud" />
   </a>
 
-  <h3>Infrastructure & Tools</h3>
-
+  <h3>Web & Full-Stack Background</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github&perline=8&theme=dark" alt="Infrastructure and Tools stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,angular,java&perline=8&theme=dark" alt="Web and Full-Stack Background" />
   </a>
 
   <br><br>
@@ -61,26 +54,11 @@ Currently expanding my knowledge in Python, data pipelines, database systems and
 
 </div>
 
-### 🔹 Bluesky Profile Analysis
-Data collection and analysis platform that processes public Bluesky data, stores information in MongoDB and uses AI to generate insights about user interests.
-
-**Technologies:** Python · MongoDB · Anthropic API · AT Protocol
-
-[View Repository](https://github.com/edualcrd/bluesky_profile_analysis)
-
-### 🔹 DevTaskTracker
-Full-stack task management application designed to organize development tasks and workflows.
-
-**Technologies:** Node.js · Express.js · MongoDB · JavaScript
-
-[View Repository](https://github.com/edualcrd/DevTaskTracker)
-
-### 🔹 Momentum
-Web application focused on skateboarding, allowing users to manage tricks, profiles and content.
-
-**Technologies:** PHP · JavaScript · MySQL · HTML · CSS
-
-[View Repository](https://github.com/edualcrd/Momentum)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Bluesky Profile Analysis](https://github.com/edualcrd/bluesky_profile_analysis)** | Data ingestion and AI analysis pipeline that processes public Bluesky feeds, stores them in MongoDB, and extracts user interest insights with LLMs. | `Python` `MongoDB` `Anthropic API` `AT Protocol` |
+| **[DevTaskTracker](https://github.com/edualcrd/DevTaskTracker)** | Full-stack task management application designed to organize development workflows and project tracking. | `Node.js` `Express` `MongoDB` `JavaScript` |
+| **[Momentum](https://github.com/edualcrd/Momentum)** | Web platform for the skateboarding community to manage tricks, profiles, and user content. | `PHP` `JavaScript` `MySQL` |
 
 <div align="center">
 
@@ -95,7 +73,7 @@ Web application focused on skateboarding, allowing users to manage tricks, profi
   <img src="https://img.shields.io/badge/RAG-Learning-58a6ff?style=flat-square" alt="RAG" />
   <img src="https://img.shields.io/badge/Embeddings-Learning-58a6ff?style=flat-square" alt="Embeddings" />
 
-  <br><br><br>
+  <br><br>
 
   <h2>GitHub Activity</h2>
 
@@ -103,15 +81,13 @@ Web application focused on skateboarding, allowing users to manage tricks, profi
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edualcrd&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" width="700" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edualcrd/edualcrd/output/github-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edualcrd/edualcrd/output/github-snake.svg?v=2" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/edualcrd/edualcrd/output/github-snake.svg?v=2" />
+  </picture>
 
   <br><br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edualcrd/edualcrd/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edualcrd/edualcrd/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/edualcrd/edualcrd/output/github-snake.svg" />
-  </picture>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer&text=Always%20learning.%20Always%20building.&fontSize=15&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="Footer Banner" />
 
