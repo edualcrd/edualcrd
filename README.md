@@ -57,8 +57,10 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[Bluesky Profile Analysis](https://github.com/edualcrd/bluesky_profile_analysis)** | Data ingestion and AI analysis pipeline that processes public Bluesky feeds, stores them in MongoDB, and extracts user interest insights with LLMs. | `Python` `MongoDB` `Anthropic API` `AT Protocol` |
+| **[OCR Image Processing](https://github.com/edualcrd/ocr_image_processing)** | Image processing and text extraction pipeline using OCR techniques to preprocess images, recognize text, and export structured results for further analysis. | `Python` `OpenCV` `Tesseract OCR` `Pillow` |
 | **[DevTaskTracker](https://github.com/edualcrd/DevTaskTracker)** | Full-stack task management application designed to organize development workflows and project tracking. | `Node.js` `Express` `MongoDB` `JavaScript` |
 | **[Momentum](https://github.com/edualcrd/Momentum)** | Web platform for the skateboarding community to manage tricks, profiles, and user content. | `PHP` `JavaScript` `MySQL` |
+
 
 <div align="center">
 
